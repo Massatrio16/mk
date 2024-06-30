@@ -9,6 +9,7 @@ Cara penggunaan
 
 
 
-Gambar Fitur :
-![Image alt] (https://github.com/Massatrio16/mk/blob/main/Screenshot_20240630-195634_1.jpg)
+Gambar Fitur
+
+![Image alt](https://github.com/Massatrio16/mk/blob/main/Screenshot_20240630-195634_1.jpg)
 
