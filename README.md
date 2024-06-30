@@ -2,7 +2,7 @@
 
 Cara penggunaan
 - git clone https://github.com/Massatrio16/mka
-- cd mka
+- cd mk
 - sudo passwd (buat dan konfirmasi password baru untuk su)
 - su (Masukkan password baru yang telah dibuat)
 - bash build.sh
