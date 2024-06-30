@@ -1,4 +1,4 @@
-# SCRIPT FOR BUILD TWRP from GITPOD
+# SCRIPT BUILD TWRP USING GITPOD FREE (BETA)
 
 Cara penggunaan
 - git clone https://github.com/Massatrio16/mka
